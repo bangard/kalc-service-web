@@ -48,7 +48,6 @@ func (repo *MysqlRepository) GetFilesPublishedByEmission(ctx context.Context, id
 	rows, err := repo.db.QueryContext(ctx, "SELECT p.id,  p.date, f.md5, p.position, p.time_to_air, f.url "+
 		"FROM publishes p, files f, file_publish pf WHERE p.emission_id = ? AND p.id = pf.publish_id AND pf.file_id = f.id"+
 		" ORDER BY p.position ASC", id)
-
 	if err != nil {
 		return nil, err
 	}
@@ -76,3 +75,4 @@ func (repo *MysqlRepository) GetFilesPublishedByEmission(ctx context.Context, id
 	}
 	return publishes, nil
 }
+// "https://drive.google.com/drive/folders/1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_?usp=share_link"
