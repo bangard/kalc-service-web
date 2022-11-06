@@ -76,3 +76,4 @@ func (repo *MysqlRepository) GetFilesPublishedByEmission(ctx context.Context, id
 	return publishes, nil
 }
 // https://drive.google.com/drive/folders/1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_?usp=share_link
+// https://drive.google.com/drive/folders/1ztpQc5d-dkJWshPWhVYPbSCHXHWSCOjX?usp=sharing
