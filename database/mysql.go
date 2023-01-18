@@ -1,3 +1,10 @@
+
+//https://sendgb.com/RJGP20anOKM
+//https://sendgb.com/Sxp3i58O9ry
+//https://sendgb.com/1Z0jGaSXdVq
+//https://sendgb.com/uj7HP92rY3y
+//https://sendgb.com/LbjQrOkw8AK
+
 package database
 
 import (
@@ -75,7 +82,7 @@ func (repo *MysqlRepository) GetFilesPublishedByEmission(ctx context.Context, id
 	}
 	return publishes, nil
 }
-//https://filelu.com/folder/brian/
+
 
 
 // https://drive.google.com/drive/folders/1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_?usp=share_link
