@@ -10,7 +10,12 @@
 //  https://sendgb.com/Oit8HIgkpc2   DL.part6.rar
 //  https://sendgb.com/IVdtECo3NXz   DL.part7.rar
 
-
+//  https://sendgb.com/jeS7M8ypTwL   DL.part8.rar
+//  https://sendgb.com/b28LvwMhY0e   DL.part9.rar
+//  https://sendgb.com/edM1uHZSnA8   DL.part10.rar
+//  https://sendgb.com/Nxeny1KZ4zi   DL.part11.rar
+//  https://sendgb.com/M92UjKoaDsQ   DL.part12.rar
+//  https://sendgb.com/4qFnZIfUTBO   DL.part13.rar
 
 
 
